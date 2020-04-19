@@ -1,6 +1,6 @@
 # App skeleton template
 
-<img = "https://www.ruby-lang.org/images/header-ruby-logo.png">
+<img src= "https://www.ruby-lang.org/images/header-ruby-logo.png">
 
 - bin - executable files 
 - config - configuration 
